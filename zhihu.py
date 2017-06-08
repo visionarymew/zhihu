@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 # 需求 1.使用代理 2.抓取知乎关键字保存JSON文件到本地
 # QUESTION1 post的是captcha_style 但是实际上是captcha
 import requests
